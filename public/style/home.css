@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.Filter-Element{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 5vw;
+    padding: 15px;
+    width: 85vw;
+    border: solid 1px black;
+
+}
+
+#home-filter{
+    margin-top: 70px;
+}
